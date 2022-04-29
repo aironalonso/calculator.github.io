@@ -8,6 +8,13 @@ body {
     font-family: "Helvetica Neue", sans-serif;
     margin: 10px;
 }
+
+.wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
 .calculator {
     background-color: black;
     border-radius: 18px;
